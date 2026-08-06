@@ -235,3 +235,23 @@
 ### Deep Copy
 - Independent nested objects
 ## =======================================================================================
+
+## -----------DAY 06----------4/Aug/'26---------------------------------------------------
+
+6. What is a Stack?
+    - A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. - - Elements are added and removed from the same end of the stack.
+
+7. Why is a stack called LIFO?
+    - It is called LIFO because the last element inserted into the stack is the first element removed.
+
+8. Difference between append() and pop().
+    append() adds an element to the end of a list, while; 
+    pop() removes and returns the last element by default.
+
+9. Difference between List and Tuple.
+    * List - mutable, created using[] or the list() constructor, operations like adding, modifying, deleting, can be performed.
+    * Tuple - immutable, once created it cannot be modified, created using () or the tuple() constructor
+
+10. What is a Dictionary?
+    A dictionary stores data as key-value pairs. Each key is unique and is used to quickly access its corresponding value.
+==============================================================================================
